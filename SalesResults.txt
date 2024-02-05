@@ -1,1 +1,2 @@
-Total Sales Cost: $165235.37
+Total Sales Cost: $2481.86
+Time elapsed: 0.01415562629699707 s
